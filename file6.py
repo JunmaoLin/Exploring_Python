@@ -1,3 +1,4 @@
+#for loop
 def divisible(n):
     divisible_list = []
     for i in range (1,10): #excluding 10
